@@ -1,0 +1,145 @@
+body {
+    color: white;
+}
+
+#game_1301160425 {
+    margin: auto;
+    width: 900px;
+    height: 450px;
+    background-color: cadetblue;
+}
+
+#game_1301160425 table {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+}
+
+#game_1301160425 tr,  #game_1301160425 td {
+    padding: 0;
+    margin: 0;
+}
+
+.area_1301160425 {
+    width: 50%;
+    height: 100%;
+    padding: 10px;
+}
+
+.area_1301160425 div {
+    width: 100%;
+    height: 100%;
+}
+
+#display_1301160425 {
+    background-color: darkslategray;
+}
+
+#display_1301160425 div {
+    font-size: 72px;
+    height:40%;
+    padding-left: 25px;
+}
+
+#display_1301160425 #question_1301160425 {
+    padding-top: 80px;
+}
+
+#input_1301160425 {
+    background-color: gray;
+}
+
+#input_1301160425 td {
+    width: 33.33%;
+}
+
+
+#input_1301160425 button {
+    width: 100%;
+    height: 100%;
+    background-color: #222222;
+    border: none;
+    font-size: 40px;
+    color: white;
+}
+
+#input_1301160425 #clearBtn_1301160425 {
+    background-color: darkred;
+}
+
+#input_1301160425 #submitBtn_1301160425 {
+    background-color: darkgreen;
+}
+
+#score_1301160425 {
+    height: 50px;
+    padding-left: 20px;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+#submitScore_1301160425 {
+    margin: auto;
+    width: 900px;
+    height: 450px;
+    background-color: cadetblue;
+    font-size: 24px;
+}
+
+#submitScore_1301160425 table {
+    width: 600px;
+    padding-top: 50px;
+    margin: auto;
+}
+
+#finalScore_1301160425 {
+    padding-top: 100px;
+    text-align: center;
+}
+
+#submitScore_1301160425 input {
+    width: 100%;
+    border-radius: 5px;
+}
+
+#submitScore_1301160425 button {
+    width: 100%;
+    border-radius: 5px;
+}
+
+#scoreList_1301160425 {
+    margin: auto;
+    width: 900px;
+    padding: 20px 0;
+    background-color: cadetblue;
+}
+
+#scoreList_1301160425 h1 {
+    text-align: center;
+}
+
+#scoreList_1301160425 table {
+    margin: 20px;
+    margin: auto;
+    font-size: 18px;
+    border-collapse: collapse;
+}
+
+#scoreList_1301160425 table, #scoreList_1301160425 th, #scoreList_1301160425 td {
+    border: 1px solid white;
+}
+
+#scoreList_1301160425 button {
+    display: block;
+    margin: 20px auto;
+    background: none;
+    color: white;
+    font-size: 32px;
+    border-style: solid;
+}
+
+#clock_1301160425 {
+    display: block;
+    width: 40px;
+    height: 40px;
+}
