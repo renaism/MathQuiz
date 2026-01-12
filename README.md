@@ -1,3 +1,3 @@
 # MathQuiz
 
-https://zafitract.github.io/MathQuiz/
+https://renaism.github.io/MathQuiz/
